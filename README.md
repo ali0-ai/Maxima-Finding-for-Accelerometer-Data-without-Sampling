@@ -1,0 +1,1 @@
+# Maxima-Finding-for-Accelerometer-Data-without-Sampling
